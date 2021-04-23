@@ -26,6 +26,6 @@ p{
     text-align: center;
     color: black;
     margin-right: 20px;}
-    .image{
-        height: 36em;
+.image{
+        height:100vh;
     }
